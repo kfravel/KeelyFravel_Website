@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Keely Fravel is pursuing a BA in International Affairs from the George Washington University's Elliott School of International Affairs. Her studies are focused in anthropology, and she has declared a minor in journalism and mass communication. She is passionate about accessibility in academic storytelling. When she's not studying, Keely is the Co-Artistic Director of the Fourteenth Grade Players, a student theatre company on campus at the George Washington University. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
