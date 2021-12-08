@@ -67,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Keely Fravel is pursuing a BA in International Affairs from the George Washington University's Elliott School of International Affairs. Her studies are focused in anthropology, and she has declared a minor in journalism and mass communication. She is passionate about accessibility in academic storytelling. When she's not studying, Keely is the Co-Artistic Director of the Fourteenth Grade Players, a student theatre company on campus at the George Washington University. 
+Keely Fravel is pursuing a BA in International Affairs from the George Washington University's Elliott School of International Affairs. Her studies are focused in anthropology, and she's simultaneously working to complete a minor in journalism and mass communication. She is passionate about accessibility in academic storytelling. When she's not studying, Keely is the Co-Artistic Director of the Fourteenth Grade Players, a student theatre company on campus at the George Washington University. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+On the weekends, she's a waitress at The Tombs in Georgetown in order to make ends meet. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
