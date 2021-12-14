@@ -39,14 +39,6 @@ item:
   organization_url: 
   title: Presidential Merit Scholarship Recipient
   url: 
-- certificate_url: 
-  date_end: "2020-12-21"
-  date_start: "2020-08-01"
-  description: ""
-  organization: The George Washington University
-  organization_url: 
-  title: 'Dean's List Honoree'
-  url: ""
 
 design:
   columns: '2' 
