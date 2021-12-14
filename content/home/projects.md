@@ -29,6 +29,10 @@ content:
     tag: '*'
   - name: Published Words
     tag: Published
+  - name: Feature Stories
+    tag: Features
+  - name: Academic Work
+    
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
