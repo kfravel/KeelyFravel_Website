@@ -25,21 +25,21 @@ experience:
   - title: Front Waiter
     company: The Tombs
     company_url: 'https://tombs.com/'
-    company_logo: 
+    company_logo: org-TT
     location: Washington, DC
     date_start: '2021-01-10'
     date_end: 'Present'
     description: |2-
         Serving Georgetown students, parents, and alumni while upholding the reputation that The Tombs has built over the past 50 years.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Summer Retail Associate
+    company: Cape Cod Beer
+    company_url: 'https://capecodbeer.com/'
+    company_logo: org-CCB
+    location: Cape Cod, Massachusetts
+    date_start: '2021-05-15'
+    date_end: '2021-08-31'
+    description: Served local craft beer, sold merchandise, and moved kegs around.
 
 design:
   columns: '2'
