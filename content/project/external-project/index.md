@@ -1,8 +1,8 @@
 ---
 title: Words for Childs Play Magazine
 summary: One of two articles written about love and growth and coming of age for Childs Play Magazine, an independent publication.
-tags:
-- Demo
+tags: 
+- Published
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
