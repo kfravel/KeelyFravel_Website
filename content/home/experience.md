@@ -25,7 +25,6 @@ experience:
   - title: Front Waiter
     company: The Tombs
     company_url: 'https://tombs.com/'
-    company_logo: org-TT
     location: Washington, DC
     date_start: '2021-01-10'
     date_end: 'Present'
@@ -35,7 +34,6 @@ experience:
   - title: Summer Retail Associate
     company: Cape Cod Beer
     company_url: 'https://capecodbeer.com/'
-    company_logo: org-CCB
     location: Cape Cod, Massachusetts
     date_start: '2021-05-15'
     date_end: '2021-08-31'
