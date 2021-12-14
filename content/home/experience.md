@@ -27,14 +27,10 @@ experience:
     company_url: 'https://tombs.com/'
     company_logo: 
     location: Washington, DC
-    date_start: '2021-10-01'
+    date_start: '2021-01-10'
     date_end: 'Present'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Serving Georgetown students, parents, and alumni while upholding the reputation that The Tombs has built over the past 50 years.
         
   - title: Professor of Semiconductor Physics
     company: University X
