@@ -26,8 +26,8 @@ experience:
     company: The Tombs
     company_url: 'https://tombs.com/'
     location: Washington, DC
-    date_start: '2021-01-10'
-    date_end: 'Present'
+    date_start: '2021-10-01'
+    date_end: ''
     description: |2-
         Serving Georgetown students, parents, and alumni while upholding the reputation that The Tombs has built over the past 50 years.
         
