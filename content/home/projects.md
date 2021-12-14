@@ -32,7 +32,7 @@ content:
   - name: Feature Stories
     tag: Features
   - name: Academic Work
-    
+    tag: Academia 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
