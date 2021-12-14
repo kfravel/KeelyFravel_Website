@@ -14,7 +14,7 @@ organizations:
   url: https://www.gwu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm working towards a BA in International Affairs and a minor in journalism and mass communications in the hope that I can combine my passions for global issues and storytelling.
 
 # Interests to show in About widget
 interests:
@@ -42,13 +42,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/keelsfrave
   label: Follow me on Twitter
   display:
     header: true
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kfravel
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
