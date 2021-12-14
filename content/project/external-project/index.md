@@ -1,5 +1,5 @@
 ---
-title: Words for Childs Play Magazine
+title: On Love & Growing
 summary: One of two articles written about love and growth and coming of age for Childs Play Magazine, an independent publication.
 tags: 
 - Published
